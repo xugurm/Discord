@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "@discordjs/builders": "^1.4.0",
-    "@discordjs/opus": "^0.8.0",
+    "@discordjs/opus": "^0.9.0",
     "@discordjs/rest": "^1.4.0",
     "@discordjs/voice": "^0.11.0",
     "@distube/deezer": "^1.0.0",
